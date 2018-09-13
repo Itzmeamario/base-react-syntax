@@ -1,0 +1,13 @@
+.userInput {
+  margin-left: 45%;
+  /* width: 173px; */
+}
+
+.input {
+  box-shadow: 1px 4px 5px rgb(124, 173, 182);
+  border: 1px hidden rgb(87, 84, 84);
+  width: auto;
+  margin: auto;
+  padding-left: 10px;
+  margin-bottom: 30px;
+}
